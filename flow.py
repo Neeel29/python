@@ -1,9 +1,11 @@
 # If condition
 if 1 > 1:
     print("In if condition!")
+
 elif 3 == 3 and 2 > 1:
     print("This is else if condition")
 else:
+
     print("Else part!")
 
 # While loop
